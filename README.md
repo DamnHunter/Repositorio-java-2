@@ -1,0 +1,1 @@
+Estes são códigos simples que eu fiz. Um é um código que recebe do usuário as notas do filme e exibe a quantidade de estrelas que este deu para o filme e o outro é um código que o usuário tem que acertar o numero sorteado aleatóriamente pelo sistema.
